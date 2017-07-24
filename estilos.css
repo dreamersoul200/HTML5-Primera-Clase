@@ -1,6 +1,21 @@
 @charset "utf-8";
 /* CSS Document */
 * {margin: 0; padding: 0; box-sizing: border-box;}
-body{background: black;}
+body{background: green;}
 
-div{background-image: image("imagenes/bg.jpg");}
+#contenedor{background-image: url(imagenes/bg.jpg); background-color: transparent; margin: auto; height: auto; width: 760px; padding-left: 30px; padding-right: 30px;}
+
+
+#banner{text-align: center;}
+
+img{border-bottom-color: #00BA00; border-bottom-style: solid; border-bottom-width: 5px;}
+
+article{background: white;}
+
+#texto1{color: grey; font-size: 24px;}
+
+#texto2{color: grey;font-size: 14px; padding-top: 20px; padding-bottom: 10px;}
+
+#contenedor2{padding: 30px;}
+
+footer{color: white; padding: 30px;font-size: 14px;}
