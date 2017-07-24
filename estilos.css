@@ -1,3 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
+* {margin: 0; padding: 0; box-sizing: border-box;}
+body{background: black;}
 
+div{background-image: image("imagenes/bg.jpg");}
