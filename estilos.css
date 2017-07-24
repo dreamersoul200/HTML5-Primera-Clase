@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 * {margin: 0; padding: 0; box-sizing: border-box;}
-body{background: green;}
+body{background: #80DB82;}
 
 #contenedor{background-image: url(imagenes/bg.jpg); background-color: transparent; margin: auto; height: auto; width: 760px; padding-left: 30px; padding-right: 30px;}
 
